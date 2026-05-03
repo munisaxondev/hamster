@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 const Header = () => {
     return (
         <div>
-            <header style={{background:"gray"}}>
+            <header >
                 <div className="container">
                     <nav style={{display:"flex",
                     alignItems:"center",
